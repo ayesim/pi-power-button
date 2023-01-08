@@ -17,5 +17,6 @@ If you need to uninstall the power button script in order to use GPIO6 for anoth
 
 There are two main features of the power button:
 
-a. **Shutdown functionality:** Shut the Pi down safely when the button is pressed. The Pi now consumes zero power. Circuit will cut power
-b. **Wake functionality:** Turn the Pi back on when the button is pressed again. Circuit handle power on function
+a. **Shutdown functionality:** Shut the Pi down safely when the button is pressed. The Pi now consumes zero power. Circuit will cut power.
+
+b. **Wake functionality:** Turn the Pi back on when the button is pressed again. Circuit handle power on function.
